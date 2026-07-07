@@ -1,0 +1,145 @@
+﻿producto_id,nombre_producto,categoria,precio_unitario_texto,unidad_medida,margen_estandar_pct,precio_unitario
+5000,Perfil De Acero Galvanizado Ref.100,Metal,426.96,unidad,13.9,426.96
+5001,Perfil De Acero Galvanizado Ref.101,Metal,"232,29",unidad,30.2,232.29
+5002,Perfil De Acero Galvanizado Ref.102,Metal,34.13,unidad,25.1,34.13
+5003,Perfil De Acero Galvanizado Ref.103,Metal,439.50,unidad,29.8,439.5
+5004,Perfil De Acero Galvanizado Ref.104,Metal,260.34,unidad,33.1,260.34
+5005,Chapa De Aluminio Ref.100,Metal,51.06,unidad,29.5,51.06
+5006,Chapa De Aluminio Ref.101,Metal,"351,54",unidad,38.2,351.54
+5007,Chapa De Aluminio Ref.102,Metal,316.96,unidad,36.1,316.96
+5008,Chapa De Aluminio Ref.103,Metal,"135,27",unidad,23.3,135.27
+5009,Chapa De Aluminio Ref.104,Metal,420.51,unidad,30.9,420.51
+5010,Tornillería Industrial Ref.100,Metal,"158,33",unidad,15.1,158.33
+5011,Tornillería Industrial Ref.101,Metal,127.31,unidad,44.8,127.31
+5012,Tornillería Industrial Ref.102,Metal,"371,29",unidad,27.2,371.29
+5013,Tornillería Industrial Ref.103,Metal,"82,28",unidad,20.2,82.28
+5014,Tornillería Industrial Ref.104,Metal,180.80,unidad,21.2,180.8
+5015,Varilla De Acero Inoxidable Ref.100,Metal,370.12,unidad,34.5,370.12
+5016,Varilla De Acero Inoxidable Ref.101,Metal,"176,16",unidad,19.7,176.16
+5017,Varilla De Acero Inoxidable Ref.102,Metal,"222,35",unidad,29.6,222.35
+5018,Varilla De Acero Inoxidable Ref.103,Metal,277.54,unidad,40.7,277.54
+5019,Bisagra Reforzada Ref.100,Metal,"183,95",unidad,14.2,183.95
+5020,Bisagra Reforzada Ref.101,Metal,"100,27",unidad,30.7,100.27
+5021,Bisagra Reforzada Ref.102,Metal,245.19,unidad,32.3,245.19
+5022,Bisagra Reforzada Ref.103,Metal,73.66,unidad,15.8,73.66
+5023,Bisagra Reforzada Ref.104,Metal,"223,73",unidad,15.4,223.73
+5024,Bisagra Reforzada Ref.105,Metal,159.45,unidad,18.8,159.45
+5025,Placa Base Metálica Ref.100,Metal,72.80,unidad,40.5,72.8
+5026,Placa Base Metálica Ref.101,Metal,315.72,unidad,19.4,315.72
+5027,Placa Base Metálica Ref.102,Metal,247.37,unidad,39.0,247.37
+5028,Placa Base Metálica Ref.103,Metal,335.02,unidad,44.7,335.02
+5029,Placa Base Metálica Ref.104,Metal,357.23,unidad,42.9,357.23
+5030,Granza De Polipropileno Ref.100,Plástico,6.24,kg,23.1,6.24
+5031,Granza De Polipropileno Ref.101,Plástico,3.55,kg,33.5,3.55
+5032,Granza De Polipropileno Ref.102,Plástico,5.36,kg,36.8,5.36
+5033,Granza De Polipropileno Ref.103,Plástico,"3,52",kg,43.2,3.52
+5034,Granza De Polipropileno Ref.104,Plástico,4.91,kg,17.6,4.91
+5035,Lámina De Pvc Rígido Ref.100,Plástico,0.96,kg,31.7,0.96
+5036,Lámina De Pvc Rígido Ref.101,Plástico,"3,50",kg,38.4,3.5
+5037,Lámina De Pvc Rígido Ref.102,Plástico,4.94,kg,40.8,4.94
+5038,Lámina De Pvc Rígido Ref.103,Plástico,5.51,kg,37.2,5.51
+5039,Tubo De Polietileno Ref.100,Plástico,2.28,kg,33.9,2.28
+5040,Tubo De Polietileno Ref.101,Plástico,5.45,kg,29.3,5.45
+5041,Tubo De Polietileno Ref.102,Plástico,0.91,kg,16.9,0.91
+5042,Tubo De Polietileno Ref.103,Plástico,"1,61",kg,29.1,1.61
+5043,Tubo De Polietileno Ref.104,Plástico,"3,97",kg,21.1,3.97
+5044,Pieza Inyectada Abs Ref.100,Plástico,3.69,kg,32.2,3.69
+5045,Pieza Inyectada Abs Ref.101,Plástico,3.68,kg,38.6,3.68
+5046,Pieza Inyectada Abs Ref.102,Plástico,3.69,kg,41.5,3.69
+5047,Film Retráctil Industrial Ref.100,Plástico,"5,59",kg,34.1,5.59
+5048,Film Retráctil Industrial Ref.101,Plástico,3.24,kg,17.1,3.24
+5049,Film Retráctil Industrial Ref.102,Plástico,4.88,kg,19.2,4.88
+5050,Film Retráctil Industrial Ref.103,Plástico,"6,23",kg,26.2,6.23
+5051,Perfil De Pvc Extruido Ref.100,Plástico,"2,73",kg,30.3,2.73
+5052,Perfil De Pvc Extruido Ref.101,Plástico,3.31,kg,14.1,3.31
+5053,Perfil De Pvc Extruido Ref.102,Plástico,"6,41",kg,21.0,6.41
+5054,Perfil De Pvc Extruido Ref.103,Plástico,5.96,kg,34.3,5.96
+5055,Perfil De Pvc Extruido Ref.104,Plástico,6.19,kg,15.0,6.19
+5056,Perfil De Pvc Extruido Ref.105,Plástico,"1,13",kg,12.6,1.13
+5057,Rodamiento Industrial Ref.100,Componentes,"644,28",unidad,16.0,644.28
+5058,Rodamiento Industrial Ref.101,Componentes,24.06,unidad,13.4,24.06
+5059,Rodamiento Industrial Ref.102,Componentes,"571,99",unidad,18.7,571.99
+5060,Motor Eléctrico 1Cv Ref.100,Componentes,508.51,unidad,17.9,508.51
+5061,Motor Eléctrico 1Cv Ref.101,Componentes,"287,40",unidad,28.7,287.4
+5062,Motor Eléctrico 1Cv Ref.102,Componentes,"782,77",unidad,39.0,782.77
+5063,Motor Eléctrico 1Cv Ref.103,Componentes,354.26,unidad,22.2,354.26
+5064,Motor Eléctrico 1Cv Ref.104,Componentes,183.92,unidad,16.6,183.92
+5065,Sensor De Proximidad Ref.100,Componentes,785.78,unidad,20.4,785.78
+5066,Sensor De Proximidad Ref.101,Componentes,143.15,unidad,21.3,143.15
+5067,Sensor De Proximidad Ref.102,Componentes,"205,14",unidad,12.1,205.14
+5068,Sensor De Proximidad Ref.103,Componentes,"300,85",unidad,43.9,300.85
+5069,Sensor De Proximidad Ref.104,Componentes,"258,00",unidad,21.2,258.0
+5070,Conector Eléctrico Industrial Ref.100,Componentes,"209,82",unidad,31.4,209.82
+5071,Conector Eléctrico Industrial Ref.101,Componentes,324.27,unidad,29.5,324.27
+5072,Conector Eléctrico Industrial Ref.102,Componentes,604.17,unidad,22.8,604.17
+5073,Conector Eléctrico Industrial Ref.103,Componentes,"788,01",unidad,39.2,788.01
+5074,Válvula Neumática Ref.100,Componentes,591.07,unidad,30.8,591.07
+5075,Válvula Neumática Ref.101,Componentes,653.13,unidad,34.9,653.13
+5076,Válvula Neumática Ref.102,Componentes,195.50,unidad,24.4,195.5
+5077,Válvula Neumática Ref.103,Componentes,369.34,unidad,28.1,369.34
+5078,Válvula Neumática Ref.104,Componentes,17.60,unidad,15.0,17.6
+5079,Válvula Neumática Ref.105,Componentes,427.90,unidad,19.7,427.9
+5080,Actuador Lineal Ref.100,Componentes,"196,13",unidad,42.0,196.13
+5081,Actuador Lineal Ref.101,Componentes,"240,55",unidad,16.9,240.55
+5082,Actuador Lineal Ref.102,Componentes,"214,34",unidad,27.9,214.34
+5083,Actuador Lineal Ref.103,Componentes,396.35,unidad,21.6,396.35
+5084,Taladro Industrial Ref.100,Herramientas,"292,18",unidad,44.3,292.18
+5085,Taladro Industrial Ref.101,Herramientas,563.35,unidad,26.8,563.35
+5086,Taladro Industrial Ref.102,Herramientas,"179,48",unidad,15.0,179.48
+5087,Taladro Industrial Ref.103,Herramientas,454.80,unidad,28.8,454.8
+5088,Taladro Industrial Ref.104,Herramientas,534.95,unidad,17.2,534.95
+5089,Juego De Llaves Fijas Ref.100,Herramientas,"416,91",unidad,22.4,416.91
+5090,Juego De Llaves Fijas Ref.101,Herramientas,"508,13",unidad,42.6,508.13
+5091,Juego De Llaves Fijas Ref.102,Herramientas,"434,99",unidad,24.9,434.99
+5092,Juego De Llaves Fijas Ref.103,Herramientas,525.23,unidad,21.3,525.23
+5093,Juego De Llaves Fijas Ref.104,Herramientas,"54,68",unidad,20.8,54.68
+5094,Juego De Llaves Fijas Ref.105,Herramientas,318.80,unidad,38.8,318.8
+5095,Amoladora Angular Ref.100,Herramientas,"550,22",unidad,42.8,550.22
+5096,Amoladora Angular Ref.101,Herramientas,261.26,unidad,42.1,261.26
+5097,Amoladora Angular Ref.102,Herramientas,"341,31",unidad,36.4,341.31
+5098,Amoladora Angular Ref.103,Herramientas,586.37,unidad,34.1,586.37
+5099,Amoladora Angular Ref.104,Herramientas,93.85,unidad,28.4,93.85
+5100,Amoladora Angular Ref.105,Herramientas,151.51,unidad,30.1,151.51
+5101,Pistola De Calor Ref.100,Herramientas,77.16,unidad,38.7,77.16
+5102,Pistola De Calor Ref.101,Herramientas,141.23,unidad,29.3,141.23
+5103,Pistola De Calor Ref.102,Herramientas,241.70,unidad,23.9,241.7
+5104,Pistola De Calor Ref.103,Herramientas,"419,88",unidad,41.6,419.88
+5105,Prensa Manual Ref.100,Herramientas,"254,86",unidad,26.0,254.86
+5106,Prensa Manual Ref.101,Herramientas,"464,12",unidad,24.9,464.12
+5107,Prensa Manual Ref.102,Herramientas,"557,93",unidad,15.6,557.93
+5108,Prensa Manual Ref.103,Herramientas,113.77,unidad,39.9,113.77
+5109,Prensa Manual Ref.104,Herramientas,539.56,unidad,19.7,539.56
+5110,Prensa Manual Ref.105,Herramientas,553.95,unidad,29.4,553.95
+5111,Sierra De Banco Ref.100,Herramientas,426.68,unidad,18.3,426.68
+5112,Sierra De Banco Ref.101,Herramientas,"175,01",unidad,27.2,175.01
+5113,Sierra De Banco Ref.102,Herramientas,576.39,unidad,30.1,576.39
+5114,Sierra De Banco Ref.103,Herramientas,"41,84",unidad,28.4,41.84
+5115,Sierra De Banco Ref.104,Herramientas,412.82,unidad,24.2,412.82
+5116,Sierra De Banco Ref.105,Herramientas,308.44,unidad,18.5,308.44
+5117,Caja De Cartón Reforzado Ref.100,Packaging,"29,64",caja,39.1,29.64
+5118,Caja De Cartón Reforzado Ref.101,Packaging,"9,46",caja,32.6,9.46
+5119,Caja De Cartón Reforzado Ref.102,Packaging,"24,52",caja,31.6,24.52
+5120,Caja De Cartón Reforzado Ref.103,Packaging,"36,90",caja,13.7,36.9
+5121,Caja De Cartón Reforzado Ref.104,Packaging,2.69,caja,44.9,2.69
+5122,Palet De Plástico Ref.100,Packaging,13.37,caja,22.3,13.37
+5123,Palet De Plástico Ref.101,Packaging,"29,10",caja,12.1,29.1
+5124,Palet De Plástico Ref.102,Packaging,11.41,caja,37.0,11.41
+5125,Palet De Plástico Ref.103,Packaging,"15,39",caja,35.3,15.39
+5126,Film De Paletizado Ref.100,Packaging,15.10,caja,27.7,15.1
+5127,Film De Paletizado Ref.101,Packaging,"25,38",caja,13.2,25.38
+5128,Film De Paletizado Ref.102,Packaging,"2,78",caja,32.0,2.78
+5129,Film De Paletizado Ref.103,Packaging,"14,71",caja,35.6,14.71
+5130,Bolsa Industrial Polietileno Ref.100,Packaging,36.99,caja,32.9,36.99
+5131,Bolsa Industrial Polietileno Ref.101,Packaging,37.75,caja,27.4,37.75
+5132,Bolsa Industrial Polietileno Ref.102,Packaging,"31,12",caja,28.4,31.12
+5133,Bolsa Industrial Polietileno Ref.103,Packaging,0.65,caja,32.0,0.65
+5134,Bolsa Industrial Polietileno Ref.104,Packaging,"13,31",caja,18.5,13.31
+5135,Cinta De Embalaje Ref.100,Packaging,10.12,caja,17.3,10.12
+5136,Cinta De Embalaje Ref.101,Packaging,"17,23",caja,15.2,17.23
+5137,Cinta De Embalaje Ref.102,Packaging,"20,09",caja,27.2,20.09
+5138,Cinta De Embalaje Ref.103,Packaging,35.68,caja,37.7,35.68
+5139,Envase Plástico Rígido Ref.100,Packaging,"11,96",caja,26.5,11.96
+5140,Envase Plástico Rígido Ref.101,Packaging,"7,67",caja,14.1,7.67
+5141,Envase Plástico Rígido Ref.102,Packaging,10.29,caja,33.6,10.29
+5142,Envase Plástico Rígido Ref.103,Packaging,39.64,caja,42.2,39.64
+5143,Envase Plástico Rígido Ref.104,Packaging,1.90,caja,39.3,1.9
